@@ -10,5 +10,3 @@ The model works based on a normative architecture that is specifically designed 
 Agents in this model are students of UCF. After starting the model, agents move around the campus according to a survey data about their transportation patterns. Three categories of features are defined for the agents. These features are meant to simulate how smoking norms alters among students. 
 
 This material is based upon work supported by the National Science Foundation under Grant Number NSF IIS-08451. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the funding agencies.
-
-http://ial.eecs.ucf.edu/Images/ial_small.png
